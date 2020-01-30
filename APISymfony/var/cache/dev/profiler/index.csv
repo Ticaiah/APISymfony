@@ -1,0 +1,14 @@
+21387d,127.0.0.1,GET,https://127.0.0.1:8000/,1580228755,,200
+6a6c9f,127.0.0.1,GET,http://rest-api.local/,1580228773,,200
+5ec844,127.0.0.1,GET,http://rest-api.local/users/,1580228780,e2c3d0,200
+e2c3d0,127.0.0.1,GET,http://rest-api.local/users/,1580228780,,405
+6500df,127.0.0.1,GET,http://rest-api.local/users,1580228783,,200
+f5bb35,127.0.0.1,GET,http://rest-api.local/users,1580229040,0acd95,200
+0acd95,127.0.0.1,GET,http://rest-api.local/users,1580229040,,500
+95b037,127.0.0.1,GET,http://rest-api.local/users,1580229499,f8d24c,200
+f8d24c,127.0.0.1,GET,http://rest-api.local/users,1580229499,,500
+aee886,127.0.0.1,GET,http://rest-api.local/users,1580229553,edea6c,200
+edea6c,127.0.0.1,GET,http://rest-api.local/users,1580229553,,500
+4f227b,127.0.0.1,GET,http://rest-api.local/users,1580229603,c29fbc,200
+c29fbc,127.0.0.1,GET,http://rest-api.local/users,1580229603,,500
+c306e3,127.0.0.1,GET,http://rest-api.local/users,1580229618,,200

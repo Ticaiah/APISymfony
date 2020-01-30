@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36825cba-a9e4-4448-a119-9bbe4b5e76c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/www/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/APISYmfony" />
+  </component>
+  <component name="ProjectId" id="1X7LL4IokQM5QoqUIHqhw1v7FEN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36825cba-a9e4-4448-a119-9bbe4b5e76c9" name="Default Changelist" comment="" />
+      <created>1580392126913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580392126913</updated>
+      <workItem from="1580392132148" duration="38000" />
+      <workItem from="1580392338065" duration="776000" />
+      <workItem from="1580393674516" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Angular" />
+      <path value="$PROJECT_DIR$/untitled" />
+      <path value="$PROJECT_DIR$/www" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="205" key="#Composer" timestamp="1580392345074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="205" key="#Composer/0.0.1920.1040@0.0.1920.1040" timestamp="1580392345074" />
+    <state x="585" y="141" key="CommitChangelistDialog2" timestamp="1580392451742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="141" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580392451742" />
+    <state x="794" y="463" width="356" height="166" key="Github.CreateGistDialog" timestamp="1580392492602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="463" width="356" height="166" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580392492602" />
+    <state x="461" y="189" key="SettingsEditor" timestamp="1580393700719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580393700719" />
+    <state x="656" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1580393677537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580393677537" />
+  </component>
+</project>
